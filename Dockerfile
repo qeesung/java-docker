@@ -1,3 +1,3 @@
 FROM openjdk
 
-EXEC echo hello world
+RUN echo hello world
