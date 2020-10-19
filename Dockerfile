@@ -1,3 +1,1 @@
-FROM openjdk
-
-RUN echo hello world
+FROM docker.bintray.io/jfrog/artifactory-pro:latest
